@@ -94,6 +94,7 @@ body {
   justify-content: center;
   padding: 10px;
   flex-direction: column;
+  margin: 0 auto;
 }
 
 .about-3{
